@@ -14,7 +14,7 @@
 
 | Problem Name | Concept | Problem link  |Video Solution| Code |
  |--|--|--|--|--| 
-|  |  |  | | |  
+|Container with most water  | Greedy + Two pointer | [leetcode](https://leetcode.com/problems/container-with-most-water/submissions/1235520679/)  | [pepcoding](https://www.youtube.com/watch?v=qUDp8IUbZto&list=PL-Jc9J83PIiE-TR27GB7V5TBLQRT5RnSl&index=3)|[github](https://github.com/Strange-boy/DSA_Java/blob/main/src/ContainerWithMostWater.java) |  
 |--|--|--|--|--|
 |  |  |  | | |  
 
