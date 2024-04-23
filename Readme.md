@@ -18,6 +18,23 @@
 |--|--|--|--|--|
 |  |  |  | | |  
 
+## Binary Search
+
+### Easy
+| Problem Name | Concept | Problem link  |Video Solution| Code |
+ |--|--|--|--|--| 
+|  |  |  | | |  
+|--|--|--|--|--|
+|  |  |  | | |
+
+### Medium
+
+| Problem Name | Concept | Problem link  |Video Solution| Code |
+ |--|--|--|--|--| 
+|  |  |  | | |  
+|--|--|--|--|--|
+|  |  |  | | |
+
 ##  Greedy
 
 
@@ -27,7 +44,7 @@
  |--|--|--|--|--| 
 |Container with most water  | Two pointer | [leetcode](https://leetcode.com/problems/container-with-most-water/submissions/1235520679/)  | [pepcoding](https://www.youtube.com/watch?v=qUDp8IUbZto&list=PL-Jc9J83PIiE-TR27GB7V5TBLQRT5RnSl&index=3)|[github](https://github.com/Strange-boy/DSA_Java/blob/main/src/ContainerWithMostWater.java) |  
 |Minimum number of platforms|Two pointer + sorting|[gfg](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)|[pepcoding](https://www.youtube.com/watch?v=FkJZlZHWUyk&list=PL-Jc9J83PIiE-TR27GB7V5TBLQRT5RnSl&index=67)|[github](https://github.com/Strange-boy/DSA_Java/blob/main/src/FindMinPlatforms.java)|
-|  |  |  | | |  
+| Boats to save People | Two pointer + Sorting  | [leetcode](https://leetcode.com/problems/boats-to-save-people/submissions/1239903706/) |[pepcoding](https://www.youtube.com/watch?v=_KRgvkkxTzQ&list=PL-Jc9J83PIiE-TR27GB7V5TBLQRT5RnSl&index=40) | [github](https://github.com/Strange-boy/DSA_Java/blob/main/src/BoatsToSavePeople.java)|  
 
 
 ## Searching and Sorting
@@ -55,22 +72,7 @@
 |--|--|--|--|--|
 |  |  |  | | |
 
-## Binary Search
 
-### Easy
-| Problem Name | Concept | Problem link  |Video Solution| Code |
- |--|--|--|--|--| 
-|  |  |  | | |  
-|--|--|--|--|--|
-|  |  |  | | |
-
-### Medium
-
-| Problem Name | Concept | Problem link  |Video Solution| Code |
- |--|--|--|--|--| 
-|  |  |  | | |  
-|--|--|--|--|--|
-|  |  |  | | |
 
 ##  Strings
 
