@@ -53,10 +53,10 @@
 ### Easy
 | Problem No | Problem Name | Concept | Problem link  |Video Solution| Code |
  |--|--|--|--|--|--| 
-| 1 | Add Last in List |  | [pep](https://www.youtube.com/watch?v=r9FxRiIZhK4&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=3)  | [pep](https://www.youtube.com/watch?v=fjjORH3nWy4&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=4) | |  
-| 2 | Display List | | [pep](https://www.youtube.com/watch?v=6gR9_lA8uW8&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=5)| [pep](https://www.youtube.com/watch?v=3yK7SkmdZrE&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=6) |--|
-| 3 | Remove First Node | [pep](https://www.youtube.com/watch?v=3za9tOwFyCY&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=7) | [pep](https://www.youtube.com/watch?v=QyfG6meLJBQ&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=8) | | |
-|  |  |  |  | | |
+| 1 | Add Last in List |  | [pep](https://www.youtube.com/watch?v=r9FxRiIZhK4&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=3)  | [pep](https://www.youtube.com/watch?v=fjjORH3nWy4&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=4) | [github](https://github.com/Strange-boy/DSA_Java/blob/main/src/AddLastLinkedList.java) |  
+| 2 | Display List | | [pep](https://www.youtube.com/watch?v=6gR9_lA8uW8&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=5)| [pep](https://www.youtube.com/watch?v=3yK7SkmdZrE&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=6) |[github](https://github.com/Strange-boy/DSA_Java/blob/main/src/DisplayLinkedList.java)|
+| 3 | Remove First Node | | [pep](https://www.youtube.com/watch?v=3za9tOwFyCY&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=7) | [pep](https://www.youtube.com/watch?v=QyfG6meLJBQ&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=8) | [github](https://github.com/Strange-boy/DSA_Java/blob/main/src/RemoveFirstNode.java)|
+| 4 | Get Value in the List |  | [pep](https://www.youtube.com/watch?v=MGwnkGap5s8&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=10) |[pep](https://www.youtube.com/watch?v=MGwnkGap5s8&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=10) | |
 |  |  |  |  | | |
 |  |  |  |  | | |
 |  |  |  |  | | |
