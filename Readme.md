@@ -54,7 +54,7 @@
 | Problem No | Problem Name | Concept | Problem link  |Video Solution| Code |
  |--|--|--|--|--|--| 
 | 1 | Add Last in List |  | [pep](https://www.youtube.com/watch?v=r9FxRiIZhK4&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=3)  | [pep](https://www.youtube.com/watch?v=fjjORH3nWy4&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=4) | |  
-| |--|--|--|--|--|
+| 2 | Display List | | [pep](https://www.youtube.com/watch?v=6gR9_lA8uW8&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=5)| [pep](https://www.youtube.com/watch?v=3yK7SkmdZrE&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=6) |--|
 |  |  |  |  | | |
 
 
