@@ -59,7 +59,7 @@
 | 4 | Get Value in the List |  | [pep](https://www.youtube.com/watch?v=MGwnkGap5s8&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=10) |[pep](https://www.youtube.com/watch?v=MGwnkGap5s8&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=10) | [github](https://github.com/Strange-boy/DSA_Java/blob/main/src/GetValueInList.java)|
 | 5 | Add First in the List |  | [pep](https://www.youtube.com/watch?v=qsz2QlQpFg4&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=11) | [pep](https://www.youtube.com/watch?v=DfP-tb68t20&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=12) |[github](https://github.com/Strange-boy/DSA_Java/blob/main/src/AddFirstInList.java) |
 | 6 | Add at Index in List |  | [pep](https://www.youtube.com/watch?v=ObCDzE-eAgA&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=13) | [pep](https://www.youtube.com/watch?v=n9E27Z4zjpk&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=14) | [github](https://github.com/Strange-boy/DSA_Java/blob/main/src/AddAtIndexList.java) |
-|  |  |  |  | | |
+| 7 |  Remove last Node  |  | [pep](https://www.youtube.com/watch?v=67s3iHctemA&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=15) | [pep](https://www.youtube.com/watch?v=WTG87ZABrtY&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=16) |[github](https://github.com/Strange-boy/DSA_Java/blob/main/src/RemoveLastList.java) |
 |  |  |  |  | | |
 |  |  |  |  | | |
 |  |  |  |  | | |
