@@ -61,7 +61,7 @@
 | 6 | Add at Index in List |  | [pep](https://www.youtube.com/watch?v=ObCDzE-eAgA&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=13) | [pep](https://www.youtube.com/watch?v=n9E27Z4zjpk&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=14) | [github](https://github.com/Strange-boy/DSA_Java/blob/main/src/AddAtIndexList.java) |
 | 7 |  Remove last Node  |  | [pep](https://www.youtube.com/watch?v=67s3iHctemA&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=15) | [pep](https://www.youtube.com/watch?v=WTG87ZABrtY&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=16) |[github](https://github.com/Strange-boy/DSA_Java/blob/main/src/RemoveLastList.java) |
 | 8 | Reverse a Linked List | Data Iterative approach | [pep](https://www.youtube.com/watch?v=CPSwsBabT-A&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=17) | [pep](https://www.youtube.com/watch?v=CPSwsBabT-A&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=18) |[github](https://github.com/Strange-boy/DSA_Java/blob/main/src/ReverseLinkedListData.java)  |
-|  |  |  |  | | |
+| 9 | Remove at Index |  | [pep](https://www.youtube.com/watch?v=tYKLCwlx4Lk&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=22)  | [pep](https://www.youtube.com/watch?v=tYKLCwlx4Lk&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&index=22) | [github](https://github.com/Strange-boy/DSA_Java/blob/main/src/RemoveAtLinkedList.java)  |
 |  |  |  |  | | |
 |  |  |  |  | | |
 
