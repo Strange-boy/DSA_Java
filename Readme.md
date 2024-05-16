@@ -104,6 +104,23 @@
 | |--|--|--|--|--|
 |  |  |  |  | | |
 
+## Stacks
+
+### Easy
+| Problem No | Problem Name | Concept | Problem link  |Video Solution| Code |
+ |--|--|--|--|--|--| 
+| 1 | Duplicate Brackets | Implementation | [pep](https://www.youtube.com/watch?v=aMPXhEdpXFA&list=PL-Jc9J83PIiEyUGT3S8zPdTMYojwZPLUM&index=2) | [pep](https://www.youtube.com/watch?v=aMPXhEdpXFA&list=PL-Jc9J83PIiEyUGT3S8zPdTMYojwZPLUM&index=3)|[github](https://github.com/Strange-boy/DSA_Java/blob/main/src/DuplicateBrackets.java)  |  
+| |--|--|--|--|--|
+|  |  |  |  | | |
+
+### Medium
+
+| Problem No | Problem Name | Concept | Problem link  |Video Solution| Code |
+ |--|--|--|--|--|--| 
+| |  |  |  | | |  
+| |--|--|--|--|--|
+|  |  |  |  | | |
+
 
 
 ##  Strings
