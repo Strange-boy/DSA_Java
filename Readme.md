@@ -6,7 +6,7 @@
 ### Easy
 | Problem No | Problem Name | Concept | Problem link  |Video Solution| Code |
  |--|--|--|--|--|--| 
-| |  |  |  | | |  
+| 1 | Number of Employees who met target  | Implementation | [leetcode](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/)  | | [github](https://github.com/Strange-boy/DSA_Java/blob/main/src/WhoMetTheTarget.java)|  
 | |--|--|--|--|--|
 |  |  |  |  | | |
 
