@@ -55,11 +55,16 @@
 
 ##  Hashmap
 
-### Concept
+### Concept (Pepcoding - level 1)
 
 | Problem No | Problem Name | Concept | Problem link  |Video Solution| Code |
  |--|--|--|--|--|--| 
 | 1 | Highest Frequency Character  | Frequency map |  | [pepcoding](https://www.youtube.com/watch?v=ea8L1x_JSvM&list=PL-Jc9J83PIiHq5rMZasunIR19QG3E-PAA&index=3) | |  
+| 2 | Common Elements |Frequency map |  | |[github](https://github.com/Strange-boy/DSA_Java/blob/main/src/GetCommonElements1.java)|
+| 3 | Common Elements (Frequency) | Frequency map |  | |[github](https://github.com/Strange-boy/DSA_Java/blob/main/src/GetCommonElements2.java)|
+|  |  |  |  | | |
+| |--|--|--|--|--|
+|  |  |  |  | | |
 | |--|--|--|--|--|
 |  |  |  |  | | |
 
